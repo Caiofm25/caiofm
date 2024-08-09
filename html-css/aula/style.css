@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Grey+Qo&family=Ubuntu:ital,wght@0,400;0,700;1,500;1,700&display=swap");
+
+@font-face {
+  font-family: "geek";
+  src: url("geek.ttf");
+}
+
+h1 {
+  font-family: "Grey Qo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* p {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+.fonte-diferente {
+  font-family: "geek", cursive;
+}
+
+#home-icon {
+  font-size: 50px;
+}
