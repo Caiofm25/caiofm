@@ -43,3 +43,10 @@ Guardando o número 10
 // O operador % é o operador de resto
 // let a = 5 % 2;
 // alert(a);
+
+// 4²
+// let num = 4 ** 2;
+// alert(num);
+
+let num = Math.pow(4, 2);
+alert(num);
