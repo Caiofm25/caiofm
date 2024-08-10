@@ -43,3 +43,4 @@ Guardando o número 10
 // O operador % é o operador de resto
 // let a = 5 % 2;
 // alert(a);
+

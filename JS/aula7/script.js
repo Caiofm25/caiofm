@@ -48,5 +48,20 @@ Guardando o número 10
 // let num = 4 ** 2;
 // alert(num);
 
-let num = Math.pow(4, 2);
-alert(num);
+// let num = Math.pow(4, 2);
+// alert(num);
+
+// let num = Math.sqrt(5);
+// alert(num);
+
+// let num2 = Math.cbrt(16);
+// alert(num);
+
+// let num3 = 16 ** (1 / 4);
+// alert(num3);
+
+let aleatorio = Math.round(Math.random() * 6);
+alert(aleatorio);
+
+// let oi = Math.round(1.9999999999999999999999999999);
+// alert(oi);
